@@ -1,0 +1,23 @@
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.Resources.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.vbproj.GenerateResource.cache
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.vbproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.exe
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.xml
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.pdb
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.Calculadora_axie.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\Calculadora Axie.exe.config
+C:\Users\luiz_\source\repos\Calculadora Axie\Calculadora Axie.exe
+C:\Users\luiz_\source\repos\Calculadora Axie\Calculadora Axie.pdb
+C:\Users\luiz_\source\repos\Calculadora Axie\Calculadora Axie.xml
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.Cadastrar_Axie.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.vbproj.CopyComplete
+C:\Users\luiz_\source\repos\Calculadora Axie\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\luiz_\source\repos\Calculadora Axie\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luiz_\source\repos\Calculadora Axie\System.Threading.Tasks.Extensions.dll
+C:\Users\luiz_\source\repos\Calculadora Axie\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luiz_\source\repos\Calculadora Axie\System.Threading.Tasks.Extensions.xml
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora Axie.vbproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.DanosTriangulo.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.CadCartas.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.CalcDano.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.Placar.resources
