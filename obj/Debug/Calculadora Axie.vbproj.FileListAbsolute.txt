@@ -21,3 +21,4 @@ C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.DanosTri
 C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.CadCartas.resources
 C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.CalcDano.resources
 C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.Placar.resources
+C:\Users\luiz_\source\repos\Calculadora Axie\obj\Debug\Calculadora_Axie.Controle_de_Cartas.resources

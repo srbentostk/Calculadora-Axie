@@ -138,6 +138,12 @@
     <Compile Include="CalcDano.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Controle de Cartas.Designer.vb">
+      <DependentUpon>Controle de Cartas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controle de Cartas.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Controle.vb" />
     <Compile Include="D:\Meus Programas\Form1.vb">
       <SubType>Form</SubType>
@@ -186,6 +192,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CalcDano.resx">
       <DependentUpon>CalcDano.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controle de Cartas.resx">
+      <DependentUpon>Controle de Cartas.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="D:\Meus Programas\Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>

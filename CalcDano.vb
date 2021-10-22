@@ -623,8 +623,8 @@ Public Class CalcDano
             Case 0
                 axie1bocauso += 1
                 If axie1_boca_classe = varaxie1_classe Then
-                    axie1_boca_dano = axie1_boca_ataque * 1.1
-                    axie1_boca_escudo = axie1_boca_defesa * 1.1
+                    axie1_boca_dano = axie1_boca_ataque * 1
+                    axie1_boca_escudo = axie1_boca_defesa * 1
                 Else
                     axie1_boca_dano += axie1_boca_ataque
                     axie1_boca_escudo += axie1_boca_defesa
@@ -654,8 +654,8 @@ Public Class CalcDano
             Case 0
                 axie1chifreuso += 1
                 If axie1_chifre_classe = varaxie1_classe Then
-                    axie1_chifre_dano = axie1_chifre_ataque * 1.1
-                    axie1_chifre_escudo = axie1_chifre_defesa * 1.1
+                    axie1_chifre_dano = axie1_chifre_ataque * 1
+                    axie1_chifre_escudo = axie1_chifre_defesa * 1
                 Else
                     axie1_chifre_dano += axie1_chifre_ataque
                     axie1_chifre_escudo += axie1_chifre_defesa
@@ -685,8 +685,8 @@ Public Class CalcDano
             Case 0
                 axie1costasuso += 1
                 If axie1_costas_classe = varaxie1_classe Then
-                    axie1_costas_dano = axie1_costas_ataque * 1.1
-                    axie1_costas_escudo = axie1_costas_defesa * 1.1
+                    axie1_costas_dano = axie1_costas_ataque * 1
+                    axie1_costas_escudo = axie1_costas_defesa * 1
                 Else
                     axie1_costas_dano += axie1_costas_ataque
                     axie1_costas_escudo += axie1_costas_defesa
@@ -716,8 +716,8 @@ Public Class CalcDano
             Case 0
                 axie1rabouso += 1
                 If axie1_rabo_classe = varaxie1_classe Then
-                    axie1_rabo_dano = axie1_rabo_ataque * 1.1
-                    axie1_rabo_escudo = axie1_rabo_defesa * 1.1
+                    axie1_rabo_dano = axie1_rabo_ataque * 1
+                    axie1_rabo_escudo = axie1_rabo_defesa * 1
                 Else
                     axie1_rabo_dano += axie1_rabo_ataque
                     axie1_rabo_escudo += axie1_rabo_defesa
@@ -757,8 +757,8 @@ Public Class CalcDano
             Case 0
                 axie2bocauso += 1
                 If axie2_boca_classe = varaxie2_classe Then
-                    axie2_boca_dano = axie2_boca_ataque * 1.1
-                    axie2_boca_escudo = axie2_boca_defesa * 1.1
+                    axie2_boca_dano = axie2_boca_ataque * 1
+                    axie2_boca_escudo = axie2_boca_defesa * 1
                 Else
                     axie2_boca_dano += axie2_boca_ataque
                     axie2_boca_escudo += axie2_boca_defesa
@@ -788,8 +788,8 @@ Public Class CalcDano
             Case 0
                 axie2chifreuso += 1
                 If axie2_chifre_classe = varaxie2_classe Then
-                    axie2_chifre_dano = axie2_chifre_ataque * 1.1
-                    axie2_chifre_escudo = axie2_chifre_defesa * 1.1
+                    axie2_chifre_dano = axie2_chifre_ataque * 1
+                    axie2_chifre_escudo = axie2_chifre_defesa * 1
                 Else
                     axie2_chifre_dano += axie2_chifre_ataque
                     axie2_chifre_escudo += axie2_chifre_defesa
@@ -819,8 +819,8 @@ Public Class CalcDano
             Case 0
                 axie2costasuso += 1
                 If axie2_costas_classe = varaxie2_classe Then
-                    axie2_costas_dano = axie2_costas_ataque * 1.1
-                    axie2_costas_escudo = axie2_costas_defesa * 1.1
+                    axie2_costas_dano = axie2_costas_ataque * 1
+                    axie2_costas_escudo = axie2_costas_defesa * 1
                 Else
                     axie2_costas_dano += axie2_costas_ataque
                     axie2_costas_escudo += axie2_costas_defesa
@@ -850,8 +850,8 @@ Public Class CalcDano
             Case 0
                 axie2rabouso += 1
                 If axie2_rabo_classe = varaxie2_classe Then
-                    axie2_rabo_dano = axie2_rabo_ataque * 1.1
-                    axie2_rabo_escudo = axie2_rabo_defesa * 1.1
+                    axie2_rabo_dano = axie2_rabo_ataque * 1
+                    axie2_rabo_escudo = axie2_rabo_defesa * 1
                 Else
                     axie2_rabo_dano += axie2_rabo_ataque
                     axie2_rabo_escudo += axie2_rabo_defesa
@@ -891,8 +891,8 @@ Public Class CalcDano
             Case 0
                 axie3bocauso += 1
                 If axie3_boca_classe = varaxie3_classe Then
-                    axie3_boca_dano = axie3_boca_ataque * 1.1
-                    axie3_boca_escudo = axie3_boca_defesa * 1.1
+                    axie3_boca_dano = axie3_boca_ataque * 1
+                    axie3_boca_escudo = axie3_boca_defesa * 1
                 Else
                     axie3_boca_dano += axie3_boca_ataque
                     axie3_boca_escudo += axie3_boca_defesa
@@ -922,8 +922,8 @@ Public Class CalcDano
             Case 0
                 axie3chifreuso += 1
                 If axie3_chifre_classe = varaxie3_classe Then
-                    axie3_chifre_dano = axie3_chifre_ataque * 1.1
-                    axie3_chifre_escudo = axie3_chifre_defesa * 1.1
+                    axie3_chifre_dano = axie3_chifre_ataque * 1
+                    axie3_chifre_escudo = axie3_chifre_defesa * 1
                 Else
                     axie3_chifre_dano += axie3_chifre_ataque
                     axie3_chifre_escudo += axie3_chifre_defesa
@@ -953,8 +953,8 @@ Public Class CalcDano
             Case 0
                 axie3costasuso += 1
                 If axie3_costas_classe = varaxie3_classe Then
-                    axie3_costas_dano = axie3_costas_ataque * 1.1
-                    axie3_costas_escudo = axie3_costas_defesa * 1.1
+                    axie3_costas_dano = axie3_costas_ataque * 1
+                    axie3_costas_escudo = axie3_costas_defesa * 1
                 Else
                     axie3_costas_dano += axie3_costas_ataque
                     axie3_costas_escudo += axie3_costas_defesa
@@ -984,8 +984,8 @@ Public Class CalcDano
             Case 0
                 axie3rabouso += 1
                 If axie3_rabo_classe = varaxie3_classe Then
-                    axie3_rabo_dano = axie3_rabo_ataque * 1.1
-                    axie3_rabo_escudo = axie3_rabo_defesa * 1.1
+                    axie3_rabo_dano = axie3_rabo_ataque * 1
+                    axie3_rabo_escudo = axie3_rabo_defesa * 1
                 Else
                     axie3_rabo_dano += axie3_rabo_ataque
                     axie3_rabo_escudo += axie3_rabo_defesa
