@@ -364,7 +364,7 @@ Partial Class Controle_de_Cartas
         '
         Me.limpar.BackColor = System.Drawing.Color.Gold
         Me.limpar.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.limpar.Image = Global.Calculadora_Axie.My.Resources.Resources.BOTAOAMARELO1
+        Me.limpar.Image = Global.Calculadora_Axie.My.Resources.Resources.RESETpeq2
         Me.limpar.Location = New System.Drawing.Point(7, 5)
         Me.limpar.Name = "limpar"
         Me.limpar.Size = New System.Drawing.Size(64, 14)

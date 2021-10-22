@@ -287,6 +287,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icone.ico" />
+    <None Include="Resources\RESETpeq2.png" />
+    <None Include="Resources\RESETpeq.png" />
     <None Include="Resources\bonusdeclasse.png" />
     <None Include="Resources\bonusdeclasse_azul.png" />
     <None Include="Resources\settings_icon.png" />

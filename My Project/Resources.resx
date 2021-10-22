@@ -151,8 +151,8 @@
   <data name="BOTAOAMARELO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BOTAOAMARELO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="img_1068321" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\img_1068321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bonusdeclasse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonusdeclasse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bgplacar3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bgplacar31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,8 +163,8 @@
   <data name="energia5050" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\energia5050.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="endturn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\endturn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="backgroundblack.jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgroundblack.jpg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_af1c7298-fc4b-4663-ba9d-2d09d938defe_342x296" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_af1c7298-fc4b-4663-ba9d-2d09d938defe_342x296.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -184,17 +184,26 @@
   <data name="background6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background61.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bonusdeclasse_azul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonusdeclasse_azul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img_1068321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img_1068321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RESETpeq" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RESETpeq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="settings_icon-icons.com_72415" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\settings_icon-icons.com_72415.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="backgroundblack.jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\backgroundblack.jpg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="energiapequena" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\energiapequena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="endturn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\endturn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arena" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -220,10 +229,7 @@
   <data name="bgbonusdeclasse" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bgbonusdeclasse.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bonusdeclasse_azul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bonusdeclasse_azul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bonusdeclasse" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bonusdeclasse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="RESETpeq2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RESETpeq2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
