@@ -32,6 +32,7 @@ Partial Class Placar
         Me.BGBox = New System.Windows.Forms.ComboBox()
         Me.TrocarBG = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.pinbt = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'win_bt
@@ -126,12 +127,26 @@ Partial Class Placar
         '
         'Button1
         '
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.Button1.Image = Global.Calculadora_Axie.My.Resources.Resources.settings_icon
-        Me.Button1.Location = New System.Drawing.Point(-1, -1)
+        Me.Button1.Location = New System.Drawing.Point(-1, 0)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(30, 30)
+        Me.Button1.Size = New System.Drawing.Size(25, 22)
         Me.Button1.TabIndex = 51
         Me.Button1.UseVisualStyleBackColor = True
+        '
+        'pinbt
+        '
+        Me.pinbt.BackColor = System.Drawing.Color.WhiteSmoke
+        Me.pinbt.BackgroundImage = Global.Calculadora_Axie.My.Resources.Resources.pin_25x22
+        Me.pinbt.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.pinbt.Font = New System.Drawing.Font("Roboto Slab", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.pinbt.Location = New System.Drawing.Point(24, 0)
+        Me.pinbt.Name = "pinbt"
+        Me.pinbt.Size = New System.Drawing.Size(25, 22)
+        Me.pinbt.TabIndex = 52
+        Me.pinbt.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        Me.pinbt.UseVisualStyleBackColor = False
         '
         'Placar
         '
@@ -139,6 +154,7 @@ Partial Class Placar
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.Calculadora_Axie.My.Resources.Resources.bgplacar
         Me.ClientSize = New System.Drawing.Size(204, 84)
+        Me.Controls.Add(Me.pinbt)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.BGBox)
         Me.Controls.Add(Me.TrocarBG)
@@ -170,4 +186,5 @@ Partial Class Placar
     Friend WithEvents BGBox As ComboBox
     Friend WithEvents TrocarBG As Button
     Friend WithEvents Button1 As Button
+    Friend WithEvents pinbt As Button
 End Class

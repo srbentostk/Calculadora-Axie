@@ -69,4 +69,19 @@ Public Class DanosTriangulo
     Private Sub TrocarBG_Click(sender As Object, e As EventArgs) Handles TrocarBG.Click
 
     End Sub
+
+    Dim pinval As Integer = 0
+    Private Sub Button1_Click_2(sender As Object, e As EventArgs) Handles pinbt.Click
+
+        Select Case pinval
+            Case 0
+                pinval = 1
+                pinbt.BackgroundImage = My.Resources.Resources.pin_branco_25x22
+                Me.FormBorderStyle = FormBorderStyle.None
+            Case 1
+                pinval = 0
+                pinbt.BackgroundImage = My.Resources.Resources.pin_25x22
+                Me.FormBorderStyle = FormBorderStyle.FixedDialog
+        End Select
+    End Sub
 End Class

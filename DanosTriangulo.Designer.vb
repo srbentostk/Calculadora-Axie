@@ -27,6 +27,7 @@ Partial Class DanosTriangulo
         Me.bgnum = New System.Windows.Forms.Label()
         Me.TrocarBG = New System.Windows.Forms.Button()
         Me.BGBox = New System.Windows.Forms.ComboBox()
+        Me.pinbt = New System.Windows.Forms.Button()
         CType(Me.triangulo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -75,6 +76,19 @@ Partial Class DanosTriangulo
         Me.BGBox.Size = New System.Drawing.Size(60, 21)
         Me.BGBox.TabIndex = 48
         '
+        'pinbt
+        '
+        Me.pinbt.BackColor = System.Drawing.Color.WhiteSmoke
+        Me.pinbt.BackgroundImage = Global.Calculadora_Axie.My.Resources.Resources.pin_25x22
+        Me.pinbt.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.pinbt.Font = New System.Drawing.Font("Roboto Slab", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.pinbt.Location = New System.Drawing.Point(0, 1)
+        Me.pinbt.Name = "pinbt"
+        Me.pinbt.Size = New System.Drawing.Size(25, 22)
+        Me.pinbt.TabIndex = 49
+        Me.pinbt.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        Me.pinbt.UseVisualStyleBackColor = False
+        '
         'DanosTriangulo
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -82,6 +96,7 @@ Partial Class DanosTriangulo
         Me.BackColor = System.Drawing.SystemColors.ButtonHighlight
         Me.BackgroundImage = Global.Calculadora_Axie.My.Resources.Resources.backgroundwhite_jpg
         Me.ClientSize = New System.Drawing.Size(222, 208)
+        Me.Controls.Add(Me.pinbt)
         Me.Controls.Add(Me.BGBox)
         Me.Controls.Add(Me.bgnum)
         Me.Controls.Add(Me.TrocarBG)
@@ -103,4 +118,5 @@ Partial Class DanosTriangulo
     Friend WithEvents bgnum As Label
     Friend WithEvents TrocarBG As Button
     Friend WithEvents BGBox As ComboBox
+    Friend WithEvents pinbt As Button
 End Class

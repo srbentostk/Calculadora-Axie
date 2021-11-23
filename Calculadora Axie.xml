@@ -112,6 +112,11 @@ Calculadora Axie
   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.boca_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Calculadora_Axie.My.Resources.Resources.bonusdeclasse">
 <summary>
   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
@@ -133,6 +138,16 @@ Calculadora Axie
 </summary>
 </member>
 <member name="P:Calculadora_Axie.My.Resources.Resources.Captura_de_tela_2021_09_27_171048">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.chifre_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.costas_20x20">
 <summary>
   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
 </summary>
@@ -192,6 +207,21 @@ Calculadora Axie
   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.pin_25x22">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.pin_branco_25x22">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.rabo_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Calculadora_Axie.My.Resources.Resources.RESETpeq">
 <summary>
   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
@@ -208,6 +238,51 @@ Calculadora Axie
 </summary>
 </member>
 <member name="P:Calculadora_Axie.My.Resources.Resources.settings_icon_icons_com_72415">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.skull_danger_png">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.verde_boca_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.verde_chifre_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.verde_costas_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.verde_rabo_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.vermelho_boca_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.vermelho_chifre_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.vermelho_costas_20x20">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculadora_Axie.My.Resources.Resources.vermelho_rabo_20x20">
 <summary>
   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
 </summary>

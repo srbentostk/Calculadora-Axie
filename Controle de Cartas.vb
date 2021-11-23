@@ -19,13 +19,13 @@
         Select Case axie1bocauso
             Case 0
                 axie1bocauso += 1
-                axie1_boca.BackColor = Color.Lime
+                axie1_boca.Image = My.Resources.verde_boca_20x20
             Case 1
                 axie1bocauso += 1
-                axie1_boca.BackColor = Color.Red
+                axie1_boca.Image = My.Resources.vermelho_boca_20x20
             Case 2
                 axie1bocauso = 0
-                axie1_boca.BackColor = Color.White
+                axie1_boca.Image = My.Resources.boca_20x20
             Case Else
         End Select
     End Function
@@ -33,13 +33,13 @@
         Select Case axie1chifreuso
             Case 0
                 axie1chifreuso += 1
-                axie1_chifre.BackColor = Color.Lime
+                axie1_chifre.Image = My.Resources.verde_chifre_20x20
             Case 1
                 axie1chifreuso += 1
-                axie1_chifre.BackColor = Color.Red
+                axie1_chifre.Image = My.Resources.vermelho_chifre_20x20
             Case 2
                 axie1chifreuso = 0
-                axie1_chifre.BackColor = Color.White
+                axie1_chifre.Image = My.Resources.chifre_20x20
             Case Else
         End Select
     End Function
@@ -47,13 +47,13 @@
         Select Case axie1costasuso
             Case 0
                 axie1costasuso += 1
-                axie1_costas.BackColor = Color.Lime
+                axie1_costas.Image = My.Resources.verde_costas_20x20
             Case 1
                 axie1costasuso += 1
-                axie1_costas.BackColor = Color.Red
+                axie1_costas.Image = My.Resources.vermelho_costas_20x20
             Case 2
                 axie1costasuso = 0
-                axie1_costas.BackColor = Color.White
+                axie1_costas.Image = My.Resources.costas_20x20
             Case Else
         End Select
     End Function
@@ -61,13 +61,13 @@
         Select Case axie1rabouso
             Case 0
                 axie1rabouso += 1
-                axie1_rabo.BackColor = Color.Lime
+                axie1_rabo.Image = My.Resources.verde_rabo_20x20
             Case 1
                 axie1rabouso += 1
-                axie1_rabo.BackColor = Color.Red
+                axie1_rabo.Image = My.Resources.vermelho_rabo_20x20
             Case 2
                 axie1rabouso = 0
-                axie1_rabo.BackColor = Color.White
+                axie1_rabo.Image = My.Resources.rabo_20x20
             Case Else
         End Select
     End Function
@@ -76,13 +76,13 @@
         Select Case axie2bocauso
             Case 0
                 axie2bocauso += 1
-                axie2_boca.BackColor = Color.Lime
+                axie2_boca.Image = My.Resources.verde_boca_20x20
             Case 1
                 axie2bocauso += 1
-                axie2_boca.BackColor = Color.Red
+                axie2_boca.Image = My.Resources.vermelho_boca_20x20
             Case 2
                 axie2bocauso = 0
-                axie2_boca.BackColor = Color.White
+                axie2_boca.Image = My.Resources.boca_20x20
             Case Else
         End Select
     End Function
@@ -90,13 +90,13 @@
         Select Case axie2chifreuso
             Case 0
                 axie2chifreuso += 1
-                axie2_chifre.BackColor = Color.Lime
+                axie2_chifre.Image = My.Resources.verde_chifre_20x20
             Case 1
                 axie2chifreuso += 1
-                axie2_chifre.BackColor = Color.Red
+                axie2_chifre.Image = My.Resources.vermelho_chifre_20x20
             Case 2
                 axie2chifreuso = 0
-                axie2_chifre.BackColor = Color.White
+                axie2_chifre.Image = My.Resources.chifre_20x20
             Case Else
         End Select
     End Function
@@ -104,13 +104,13 @@
         Select Case axie2costasuso
             Case 0
                 axie2costasuso += 1
-                axie2_costas.BackColor = Color.Lime
+                axie2_costas.Image = My.Resources.verde_costas_20x20
             Case 1
                 axie2costasuso += 1
-                axie2_costas.BackColor = Color.Red
+                axie2_costas.Image = My.Resources.vermelho_costas_20x20
             Case 2
                 axie2costasuso = 0
-                axie2_costas.BackColor = Color.White
+                axie2_costas.Image = My.Resources.costas_20x20
             Case Else
         End Select
     End Function
@@ -118,13 +118,13 @@
         Select Case axie2rabouso
             Case 0
                 axie2rabouso += 1
-                axie2_rabo.BackColor = Color.Lime
+                axie2_rabo.Image = My.Resources.verde_rabo_20x20
             Case 1
                 axie2rabouso += 1
-                axie2_rabo.BackColor = Color.Red
+                axie2_rabo.Image = My.Resources.vermelho_rabo_20x20
             Case 2
                 axie2rabouso = 0
-                axie2_rabo.BackColor = Color.White
+                axie2_rabo.Image = My.Resources.rabo_20x20
             Case Else
         End Select
     End Function
@@ -133,13 +133,13 @@
         Select Case axie3bocauso
             Case 0
                 axie3bocauso += 1
-                axie3_boca.BackColor = Color.Lime
+                axie3_boca.Image = My.Resources.verde_boca_20x20
             Case 1
                 axie3bocauso += 1
-                axie3_boca.BackColor = Color.Red
+                axie3_boca.Image = My.Resources.vermelho_boca_20x20
             Case 2
                 axie3bocauso = 0
-                axie3_boca.BackColor = Color.White
+                axie3_boca.Image = My.Resources.boca_20x20
             Case Else
         End Select
     End Function
@@ -147,13 +147,13 @@
         Select Case axie3chifreuso
             Case 0
                 axie3chifreuso += 1
-                axie3_chifre.BackColor = Color.Lime
+                axie3_chifre.Image = My.Resources.verde_chifre_20x20
             Case 1
                 axie3chifreuso += 1
-                axie3_chifre.BackColor = Color.Red
+                axie3_chifre.Image = My.Resources.vermelho_chifre_20x20
             Case 2
                 axie3chifreuso = 0
-                axie3_chifre.BackColor = Color.White
+                axie3_chifre.Image = My.Resources.chifre_20x20
             Case Else
         End Select
     End Function
@@ -161,13 +161,13 @@
         Select Case axie3costasuso
             Case 0
                 axie3costasuso += 1
-                axie3_costas.BackColor = Color.Lime
+                axie3_costas.Image = My.Resources.verde_costas_20x20
             Case 1
                 axie3costasuso += 1
-                axie3_costas.BackColor = Color.Red
+                axie3_costas.Image = My.Resources.vermelho_costas_20x20
             Case 2
                 axie3costasuso = 0
-                axie3_costas.BackColor = Color.White
+                axie3_costas.Image = My.Resources.costas_20x20
             Case Else
         End Select
     End Function
@@ -175,13 +175,13 @@
         Select Case axie3rabouso
             Case 0
                 axie3rabouso += 1
-                axie3_rabo.BackColor = Color.Lime
+                axie3_rabo.Image = My.Resources.verde_rabo_20x20
             Case 1
                 axie3rabouso += 1
-                axie3_rabo.BackColor = Color.Red
+                axie3_rabo.Image = My.Resources.vermelho_rabo_20x20
             Case 2
                 axie3rabouso = 0
-                axie3_rabo.BackColor = Color.White
+                axie3_rabo.Image = My.Resources.rabo_20x20
             Case Else
         End Select
     End Function
@@ -253,20 +253,20 @@
     Private Function limpartudo()
 
         'botões axie1
-        axie1_boca.BackColor = Color.White
-        axie1_chifre.BackColor = Color.White
-        axie1_costas.BackColor = Color.White
-        axie1_rabo.BackColor = Color.White
+        axie1_boca.Image = My.Resources.boca_20x20
+        axie1_chifre.Image = My.Resources.chifre_20x20
+        axie1_costas.Image = My.Resources.costas_20x20
+        axie1_rabo.Image = My.Resources.rabo_20x20
         'botões axie2
-        axie2_boca.BackColor = Color.White
-        axie2_chifre.BackColor = Color.White
-        axie2_costas.BackColor = Color.White
-        axie2_rabo.BackColor = Color.White
+        axie2_boca.Image = My.Resources.boca_20x20
+        axie2_chifre.Image = My.Resources.chifre_20x20
+        axie2_costas.Image = My.Resources.costas_20x20
+        axie2_rabo.Image = My.Resources.rabo_20x20
         'botões axie3
-        axie3_boca.BackColor = Color.White
-        axie3_chifre.BackColor = Color.White
-        axie3_costas.BackColor = Color.White
-        axie3_rabo.BackColor = Color.White
+        axie3_boca.Image = My.Resources.boca_20x20
+        axie3_chifre.Image = My.Resources.chifre_20x20
+        axie3_costas.Image = My.Resources.costas_20x20
+        axie3_rabo.Image = My.Resources.rabo_20x20
         'reset dos contadores de uso dos botões
 
         'contadores do axie1
@@ -301,5 +301,19 @@
     Private Sub limpar_Click(sender As Object, e As EventArgs) Handles limpar.Click
         limpartudo()
 
+    End Sub
+    Dim pinval As Integer = 0
+    Private Sub Button1_Click_2(sender As Object, e As EventArgs) Handles pinbt.Click
+
+        Select Case pinval
+            Case 0
+                pinval = 1
+                pinbt.BackgroundImage = My.Resources.Resources.pin_branco_25x22
+                Me.FormBorderStyle = FormBorderStyle.None
+            Case 1
+                pinval = 0
+                pinbt.BackgroundImage = My.Resources.Resources.pin_25x22
+                Me.FormBorderStyle = FormBorderStyle.FixedDialog
+        End Select
     End Sub
 End Class

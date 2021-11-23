@@ -287,6 +287,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icone.ico" />
+    <None Include="Resources\vermelho rabo 20x20.png" />
+    <None Include="Resources\vermelho costas 20x20.png" />
+    <None Include="Resources\vermelho chifre 20x20.png" />
+    <None Include="Resources\vermelho boca 20x20.png" />
+    <None Include="Resources\verde rabo 20x20.png" />
+    <None Include="Resources\verde costas 20x20.png" />
+    <None Include="Resources\verde chifre 20x20.png" />
+    <None Include="Resources\verde boca 20x20.png" />
+    <None Include="Resources\skull-danger-png.png" />
+    <None Include="Resources\rabo 20x20.png" />
+    <None Include="Resources\costas 20x20.png" />
+    <None Include="Resources\chifre 20x20.png" />
+    <None Include="Resources\boca 20x20.png" />
+    <None Include="Resources\pin branco 25x22.png" />
+    <None Include="Resources\pin 25x22.png" />
     <None Include="Resources\RESETpeq2.png" />
     <None Include="Resources\RESETpeq.png" />
     <None Include="Resources\bonusdeclasse.png" />

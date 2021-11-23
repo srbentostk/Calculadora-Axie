@@ -130,11 +130,14 @@
   <data name="background51" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="endturn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\endturn1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="boca 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boca 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="background4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="endturn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\endturn1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BOTAOAMARELO1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BOTAOAMARELO1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,6 +148,9 @@
   <data name="img_1068322" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\img_1068322.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="verde rabo 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\verde rabo 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bgplacar2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bgplacar21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -154,14 +160,17 @@
   <data name="bonusdeclasse" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bonusdeclasse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="verde chifre 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\verde chifre 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bgplacar3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bgplacar31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bgplacar1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bgplacar11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="energia5050" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\energia5050.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="chifre 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chifre 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="backgroundblack.jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgroundblack.jpg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -175,14 +184,17 @@
   <data name="background8" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="verde costas 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\verde costas 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="backgroundwhite.jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgroundwhite.jpg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="background7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="background6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\background61.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pin branco 25x22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pin branco 25x22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bonusdeclasse_azul" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bonusdeclasse_azul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -193,8 +205,14 @@
   <data name="img_1068321" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\img_1068321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="costas 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\costas 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="RESETpeq" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\RESETpeq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RESETpeq2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RESETpeq2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="settings_icon-icons.com_72415" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\settings_icon-icons.com_72415.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,8 +220,14 @@
   <data name="energiapequena" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\energiapequena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="endturn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\endturn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="verde boca 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\verde boca 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="skull-danger-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skull-danger-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pin 25x22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pin 25x22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arena" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -211,11 +235,17 @@
   <data name="energia" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\energia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="background6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background61.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="settings_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\settings_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="energiapeq" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\energiapeq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="energia5050" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\energia5050.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="background3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -223,13 +253,28 @@
   <data name="Captura de tela 2021-09-27 171048" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Captura de tela 2021-09-27 171048.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="rabo 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabo 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="endturn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\endturn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="background5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background51.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bgbonusdeclasse" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bgbonusdeclasse.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="RESETpeq2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RESETpeq2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="vermelho boca 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vermelho boca 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vermelho chifre 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vermelho chifre 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vermelho costas 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vermelho costas 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vermelho rabo 20x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vermelho rabo 20x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

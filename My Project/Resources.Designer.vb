@@ -243,6 +243,16 @@ Namespace My.Resources
         '''<summary>
         '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property boca_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("boca 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property bonusdeclasse() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("bonusdeclasse", resourceCulture)
@@ -286,6 +296,26 @@ Namespace My.Resources
         Friend ReadOnly Property Captura_de_tela_2021_09_27_171048() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Captura de tela 2021-09-27 171048", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property chifre_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("chifre 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property costas_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("costas 20x20", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -404,6 +434,36 @@ Namespace My.Resources
         '''<summary>
         '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property pin_25x22() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("pin 25x22", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property pin_branco_25x22() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("pin branco 25x22", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property rabo_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("rabo 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property RESETpeq() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("RESETpeq", resourceCulture)
@@ -437,6 +497,96 @@ Namespace My.Resources
         Friend ReadOnly Property settings_icon_icons_com_72415() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("settings_icon-icons.com_72415", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skull_danger_png() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skull-danger-png", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property verde_boca_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("verde boca 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property verde_chifre_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("verde chifre 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property verde_costas_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("verde costas 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property verde_rabo_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("verde rabo 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property vermelho_boca_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("vermelho boca 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property vermelho_chifre_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("vermelho chifre 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property vermelho_costas_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("vermelho costas 20x20", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property vermelho_rabo_20x20() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("vermelho rabo 20x20", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
